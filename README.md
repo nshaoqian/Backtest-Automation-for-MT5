@@ -5,8 +5,8 @@ To automate, simply run the python file "run-this-to-automate.py" and input requ
 Below is the breakdown:
 
 ----------------------------------------------------------------------------------------
-Setup
-- change directory accordingly
+0) Setup
+- change directories terminal_folder, report_folder, opt_ini_folder, for_ini_folder 
 - enter symbol (capital letter), year and number of training days
 
 1) Write bat files for automations.
